@@ -5,7 +5,7 @@ Do deep learning classification on the [CIFAR-10 database](https://www.cs.toront
 ### Keras Code Sample
 It's referenced the structure of [Keras code sample of CIFAR-10](https://keras.io/examples/cifar10_cnn/).<br>
 <img src="./model_summary/keras_sample_cifar10.png" height="350px"><br>
-Validation Accuracy : ≈78%
+Validation Accuracy : ≈78%<br>
 <img src="./train_history/keras_sample_cifar10.png" height="350px">
 
 ### Advanced Solution
