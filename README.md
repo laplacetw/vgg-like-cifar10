@@ -1,5 +1,5 @@
 ![](https://img.shields.io/github/license/laplacetw/vgg-like-cifar10)
-# vgg-like-cifar10
+# VGG-like-CIFAR10
 Do deep learning classification on the [CIFAR-10 database](https://www.cs.toronto.edu/~kriz/cifar.html) with VGG-like structure approach 93% validation accuracy.
 
 ### Keras Code Sample
