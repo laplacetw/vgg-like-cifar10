@@ -7,14 +7,14 @@ It's referenced the structure of [Keras code sample of CIFAR-10](https://keras.i
 <br>
 ![](./model_summary/keras_sample_cifar10.png)
 
-- Test Accuracy : ≈78%
+- Test Accuracy : ≈78%<br>
 ![](train_history/keras_sample_cifar10.png)
 
 ### Advanced Solution
 Next, let's referenced [the tutorial from Jason Brownlee PhD](https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/), who is a professional developer and machine learning practitioner.<br>
 ![](./model_summary/jason_brownlee_cifar10.png)
 
-- Test Accuracy : ≈89% (Train / Valid : 94.60% / 89.35%)
+- Test Accuracy : ≈89% (Train / Valid : 94.60% / 89.35%)<br>
 ![](./train_history/jason_brownlee_cifar10.png)
 
 
@@ -25,7 +25,7 @@ Due to VGG-16 or ResNet-50 are so giant and deep neural network, I tried fractio
 <br>
 ![](./model_summary/fmp_cifar10.png)
 
-- Test Accuracy : ≈93% (Train / Valid : 97.94% / 93.55%)
+- Test Accuracy : ≈93% (Train / Valid : 97.94% / 93.55%)<br>
 ![](./train_history/fmp_cifar10.png)
 
 ### Simple Comparison
