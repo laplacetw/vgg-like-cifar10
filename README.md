@@ -28,7 +28,7 @@ Due to VGG-16 or ResNet-50 are so giant and deep neural network, I tried fractio
 - Test Accuracy : ≈93% (Train / Valid : 97.94% / 93.55%)<br>
 ![](./train_history/fmp_cifar10.png)
 
-### Simple Comparison
+### Comparison
 |            | VGG-16/VGG-19 |VGG-like + FMP|
 |:----------:|:-------------:|:------------:|
 |total params|10M+           |1.5M          |
